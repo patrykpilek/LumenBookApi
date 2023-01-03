@@ -16,5 +16,5 @@ php -S localhost:8001 -t public
 - [x] creating a factory for books and generating random values
 - [x] creating the Lumen controller for books
 - [x] creating the Lumen routes for CRUD operations on books
-- [ ] standardizing the responses across the service
+- [x] standardizing the responses across the service
 
