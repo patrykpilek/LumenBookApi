@@ -14,7 +14,7 @@ php -S localhost:8001 -t public
 - [x] creating the table for books with migrations
 - [x] creating the model for books
 - [x] creating a factory for books and generating random values
-- [ ] creating the Lumen controller for books
+- [x] creating the Lumen controller for books
 - [ ] creating the Lumen routes for CRUD operations on books
 - [ ] standardizing the responses across the service
 
