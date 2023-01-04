@@ -18,3 +18,11 @@ php -S localhost:8001 -t public
 - [x] creating the Lumen routes for CRUD operations on books
 - [x] standardizing the responses across the service
 
+## Implementing the microservice functions for books in Lumen
+
+- [x] showing the complete list of books
+- [x] allowing creating new instances of books
+- [x] allowing showing a specific book
+- [x] allowing updating an existing book
+- [x] allowing removing an existing book
+- [x] handling relevant errors and exceptions with Lumen
