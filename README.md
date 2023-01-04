@@ -23,6 +23,6 @@ php -S localhost:8001 -t public
 - [x] showing the complete list of books
 - [x] allowing creating new instances of books
 - [x] allowing showing a specific book
-- [ ] allowing updating an existing book
+- [x] allowing updating an existing book
 - [ ] allowing removing an existing book
 - [ ] handling relevant errors and exceptions with Lumen
