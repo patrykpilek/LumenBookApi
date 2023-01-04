@@ -25,4 +25,4 @@ php -S localhost:8001 -t public
 - [x] allowing showing a specific book
 - [x] allowing updating an existing book
 - [x] allowing removing an existing book
-- [ ] handling relevant errors and exceptions with Lumen
+- [x] handling relevant errors and exceptions with Lumen
