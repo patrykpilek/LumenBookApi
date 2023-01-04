@@ -24,5 +24,5 @@ php -S localhost:8001 -t public
 - [x] allowing creating new instances of books
 - [x] allowing showing a specific book
 - [x] allowing updating an existing book
-- [ ] allowing removing an existing book
+- [x] allowing removing an existing book
 - [ ] handling relevant errors and exceptions with Lumen
