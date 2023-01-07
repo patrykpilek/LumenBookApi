@@ -26,3 +26,7 @@ php -S localhost:8001 -t public
 - [x] allowing updating an existing book
 - [x] allowing removing an existing book
 - [x] handling relevant errors and exceptions with Lumen
+
+## Implementing the security layer of the microservices architecture with Lumen
+
+- [x] authenticating direct access to microservice of books
